@@ -4,7 +4,7 @@ header: Resources
 resources-active: active
 ---
 
-## A currated list of blog posts, presentations and tutorials
+## A curated list of blog posts, presentations and tutorials
 
 - - -
 
