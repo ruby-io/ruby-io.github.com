@@ -11,6 +11,7 @@ resources-active: active
 ### Blog Posts
 
 * [A Modern Guide to Threads](http://blog.carbonfive.com/2011/10/11/a-modern-guide-to-threads/) by [Mike Perham](https://twitter.com/mperham)
+* [About concurrency and the GIL](http://merbist.com/2011/10/03/about-concurrency-and-the-gil/) by [Matt Aimonetti](https://twitter.com/merbist)
 * [Ruby, Concurrency, and You](http://www.engineyard.com/blog/2011/ruby-concurrency-and-you/) by [Evan Phoenix](https://twitter.com/evanphx)
 
 - - -
