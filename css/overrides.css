@@ -1,9 +1,18 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  font-size: 16px;
+  line-height: 20px;
 }
 body {
   padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+}
+p {
+  font-size: 16px;
+  line-height: 20px
+}
+li {
+  line-height: 22px;
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
