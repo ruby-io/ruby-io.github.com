@@ -56,3 +56,7 @@ li {
 .topbar .btn {
   border: 0;
 }
+
+.highlight pre code {
+  background-color: transparent;
+}
