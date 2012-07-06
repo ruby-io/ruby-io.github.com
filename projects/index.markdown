@@ -28,3 +28,8 @@ Actors attempt to abstract away difficulties of parallel programming by conceali
 * [em-synchrony](https://github.com/igrigorik/em-synchrony), a set of tools to do event-based I/O without callbacks
 * [goliath](https://github.com/postrank-labs/goliath), a lightweight event-based web framework
 * [cramp](http://cramp.in/), another lightweight event-based web framework
+
+### Thread-Safe Data
+
+* [Hamster](http://github.com/harukizaemon/hamster), "efficient, immutable, thread-safe collection classes for Ruby"
+* [ruby-atomic](https://github.com/headius/ruby-atomic), atomic references for JRuby and Rubinius

@@ -9,6 +9,7 @@ resources-active: active
 - - -
 
 ### Blog Posts
+* [Protect that state: locks, monitors, and atomics](http://weblog.therealadam.com/2012/07/05/protect-that-state-locks-monitors-and-atomics/) by [Adam Keys](http://weblog.therealadam.com/)
 * [Introducing DCell: actor-based distributed objects for Ruby](http://www.unlimitednovelty.com/2012/04/introducing-dcell-actor-based.html) by [Tony Arcieri](https://twitter.com/bascule)
 * [A Modern Guide to Threads](http://blog.carbonfive.com/2011/10/11/a-modern-guide-to-threads/) by [Mike Perham](https://twitter.com/mperham)
 * [About concurrency and the GIL](http://merbist.com/2011/10/03/about-concurrency-and-the-gil/) by [Matt Aimonetti](http://merbist.com/about/)
