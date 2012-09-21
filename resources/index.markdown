@@ -21,6 +21,7 @@ resources-active: active
 - - -
 
 ### Presentations
+* [Let's talk concurrency](https://speakerdeck.com/u/plataformatec/p/le) by [José Valim](https://twitter.com/josevalim)
 * [Concurrent Programming with Celluloid](http://confreaks.com/videos/956-mwrc2012-concurrent-programming-with-celluloid) by [Tony Arcieri](http://www.unlimitednovelty.com/) at MountainWest RubyConf 2012
 * [Scaling Ruby with Actors, or How I Learned to Stop Worrying and Love Threads](http://confreaks.com/videos/702-rubyconf2011-scaling-ruby-with-actors-or-how-i-learned-to-stop-worrying-and-love-threads) [[slides](http://www.slideshare.net/mperham/actors-and-threads)] by [Mike Perham](https://www.mikeperham.com) at RubyConf 2011
 * [Complex Ruby Concepts Simplified](http://confreaks.com/videos/714-rubyconf2011-complex-ruby-concepts-dummified) [[slides](http://rubyconf11.merbist.com/)] by [Matt Aimonetti](http://merbist.com/about/) at RubyConf 2011
