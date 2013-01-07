@@ -13,4 +13,4 @@ The sections in the header are just ideas right now. This is a new project, and 
 
 ## Contact
 
-We have a mailing list now rubyio@librelist.org and we're on freenode: #rubyio.
+We have a mailing list now <rubyio@librelist.org> and we're on freenode: #rubyio.
