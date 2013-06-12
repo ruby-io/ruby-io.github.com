@@ -14,6 +14,10 @@ Like much of the Ruby standard library, these libraries are sparsely documented.
 * [`monitor`](http://rdoc.info/stdlib/monitor), an alternative approach to locking
 * [`gserver`](http://rdoc.info/stdlib/gserver), a generic server implementation which serves requests in threads
 
+### Threading Support
+
+* [`ruby-thread`](https://github.com/meh/ruby-thread), various extensions to the Ruby threading libraries, including pools, futures, promises, channels, and pipelines
+
 ### Actors
 
 Actors attempt to abstract away difficulties of parallel programming by concealing state and only passing messages.
