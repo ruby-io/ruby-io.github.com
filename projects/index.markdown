@@ -18,6 +18,9 @@ Like much of the Ruby standard library, these libraries are sparsely documented.
 
 * [`ruby-thread`](https://github.com/meh/ruby-thread), various extensions to the Ruby threading libraries, including pools, futures, promises, channels, and pipelines
 
+### Concurrency Support
+* [concurrent-ruby](https://github.com/jdantonio/concurrent-ruby), Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+
 ### Actors
 
 Actors attempt to abstract away difficulties of parallel programming by concealing state and only passing messages.
